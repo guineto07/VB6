@@ -1,7 +1,0 @@
-frmCadCartaoTransacoes = 116, 195, 815, 553, Z, 26, 26, 773, 497, C
-modMain = 52, 52, 867, 452, 
-frmConsultaTransacao = 179, 41, 904, 370, , 52, 52, 777, 381, C
-clsCartao_Transacao = -30, 147, 821, 476, 
-modFuncoes = 78, 78, 679, 458, 
-modVariaveis = 104, 104, 705, 484, 
-frmConsultaTransacaoCategoria = 78, 78, 733, 406, , 52, 52, 753, 458, C
